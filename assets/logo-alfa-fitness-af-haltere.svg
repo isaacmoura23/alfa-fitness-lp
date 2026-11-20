@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="590" viewBox="275 315 520 295" fill="none" role="img" aria-labelledby="logo-title logo-desc">
+  <title id="logo-title">Alfa Fitness — símbolo AF com haltere</title>
+  <desc id="logo-desc">Monograma angular azul e prata, com um pequeno haltere prateado à esquerda, sobre fundo transparente.</desc>
+  <defs>
+    <linearGradient id="silver" x1="530" y1="343" x2="530" y2="560" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EEEEF0"/>
+      <stop offset="1" stop-color="#C9C9CC"/>
+    </linearGradient>
+    <linearGradient id="steel" x1="303" y1="450" x2="386" y2="450" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#CECED1"/>
+      <stop offset="0.48" stop-color="#F4F4F5"/>
+      <stop offset="1" stop-color="#D5D5D8"/>
+    </linearGradient>
+  </defs>
+  <g id="haltere" fill="url(#steel)">
+    <path id="barra" d="M350 453H387L381 462H350Z"/>
+    <rect id="ponta" x="303" y="452" width="11" height="10" rx="3"/>
+    <path id="presilha" d="M315 447H323V467H315Z"/>
+    <path id="anilha-menor" d="M327 422H337V492H327Z"/>
+    <path id="anilha-maior" d="M342 414H351V500H342Z"/>
+  </g>
+  <g id="monograma">
+    <path id="af-azul" fill="#1400FF" d="M357 505L469 343H584V442H699L667 487H584V542L538 582V389H492L414 505Z"/>
+    <path id="af-prata-inferior" fill="url(#silver)" d="M318 560L350 516H418L470 442H522V486H492L440 560Z"/>
+    <path id="af-prata-superior" fill="url(#silver)" d="M592 343H768L735 389H592Z"/>
+  </g>
+</svg>

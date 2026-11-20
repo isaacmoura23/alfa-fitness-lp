@@ -1,0 +1,4 @@
+/* Só carregado sem JavaScript (<noscript>): o botão de menu vira um link para a lista de seções do rodapé. */
+.menu-btn{display:none!important}
+.menu-nojs{display:inline-grid}
+@media (min-width:64em){.menu-nojs{display:none}}

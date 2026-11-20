@@ -1,0 +1,7 @@
+*.md
+*.py
+*.sh
+*.figcraft
+*.log
+screenshots/
+.DS_Store

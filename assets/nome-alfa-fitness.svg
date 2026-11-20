@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2200" height="200" viewBox="0 0 1100 100" fill="none" role="img" aria-labelledby="wordmark-title wordmark-desc">
+  <title id="wordmark-title">ALFA FITNESS</title>
+  <desc id="wordmark-desc">Nome da marca em letras vetoriais brancas, geométricas e largas, redesenhadas a partir da referência. Fundo transparente.</desc>
+  <defs>
+    <path id="letra-a" d="M0 60L58 0H80V60H70V10H62L14 60Z"/>
+    <path id="letra-l" d="M0 0H10V42Q10 50 18 50H80V60H18Q0 60 0 42Z"/>
+    <path id="letra-f" d="M0 60V18Q0 0 18 0H80V10H18Q10 10 10 18V26H70V36H10V60Z"/>
+    <path id="letra-i" d="M0 0H10V60H0Z"/>
+    <path id="letra-t" d="M0 0H80V10H45V60H35V10H0Z"/>
+    <path id="letra-n" d="M0 60V0H13L70 47V0H80V60H67L10 13V60Z"/>
+    <path id="letra-e" d="M80 0V10H18Q10 10 10 18V25H72V35H10V42Q10 50 18 50H80V60H18Q0 60 0 42V18Q0 0 18 0Z"/>
+    <path id="letra-s" d="M80 0V10H18Q10 10 10 18V19Q10 25 18 25H62Q80 25 80 42Q80 60 62 60H0V50H62Q70 50 70 42Q70 35 62 35H18Q0 35 0 19V18Q0 0 18 0Z"/>
+  </defs>
+  <g id="alfa-fitness" fill="#F5F5F5" transform="translate(20 20)">
+    <g id="alfa">
+      <use href="#letra-a"/>
+      <use href="#letra-l" x="100"/>
+      <use href="#letra-f" x="200"/>
+      <use href="#letra-a" x="300"/>
+    </g>
+    <g id="fitness" transform="translate(440)">
+      <use href="#letra-f"/>
+      <use href="#letra-i" x="100"/>
+      <use href="#letra-t" x="130"/>
+      <use href="#letra-n" x="230"/>
+      <use href="#letra-e" x="330"/>
+      <use href="#letra-s" x="430"/>
+      <use href="#letra-s" x="530"/>
+    </g>
+  </g>
+</svg>
